@@ -8,7 +8,7 @@ namespace ConsoleApp.Models
 {
     internal enum ShootingMood
     {
-        single=1,
+        single,
         automatic
 
     }
